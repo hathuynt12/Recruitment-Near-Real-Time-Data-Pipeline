@@ -56,9 +56,7 @@ spend_hour (sum of bid)
 
 
 ✨ Sample Dashboard (Grafana)
-
-
-
+![Grafana Dashboard](docs/images/dashboard_prj_recruit.png)
 
 
 
