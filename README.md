@@ -100,5 +100,5 @@ spend_hour (sum of bid)
 Dashboards show KPIs like Click-Through Rate, Conversions over Time, Qualified Ratio per Campaign, Spend by Group...
 
 🚀 Author
-Hà Thủy Nguyễn (Claire)
+Ha Thuy Nguyen (Claire)
 
